@@ -1,0 +1,5 @@
+*/build/*
+*/cmake-build-debug/*
+*/external/*
+*/bin/*
+logs_and_pics/

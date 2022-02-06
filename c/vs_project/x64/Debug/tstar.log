@@ -1,0 +1,9 @@
+﻿  map_handler.cpp
+C:\tstar-epsilon-22_7_20\c\source\map_handler.cpp(4,10): fatal error C1083: Cannot open include file: 'map_handler.h': No such file or directory
+  robot.cpp
+C:\tstar-epsilon-22_7_20\c\source\robot.cpp(5,10): fatal error C1083: Cannot open include file: 'Robot.h': No such file or directory
+  tstar.cpp
+C:\tstar-epsilon-22_7_20\c\source\tstar.cpp(3,10): fatal error C1083: Cannot open include file: 'tstar.h': No such file or directory
+  tstar_imp.cpp
+C:\tstar-epsilon-22_7_20\c\source\tstar_imp.cpp(5,10): fatal error C1083: Cannot open include file: 'bits/stdc++.h': No such file or directory
+  Generating Code...

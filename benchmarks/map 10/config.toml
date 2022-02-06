@@ -1,0 +1,14 @@
+map        =  "../maps/map10.txt"
+start      =  [2, 1, 0, 0]      # [row,col,theta,speed]
+goal       =  [9, 1, 6, 0]       # [row,col,theta,speed]
+speed      =  0                  # 0=low 1=high. set only when g_func == "dubins"
+g_func     =  "dubins"           # [euclidean, dubins, varspeed]
+h_func     =  "dubins"           # [eculidean, dubins]
+ocps_table =  "ocps.txt"         # loads ocps table if exists
+uMax       = 1
+vMax       = 1
+vMin       = 0.5
+obstacle_clearance = 0.05
+epsilon = 4
+wind_x = 0
+wind_y = 0

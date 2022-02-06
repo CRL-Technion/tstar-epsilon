@@ -1,0 +1,15 @@
+map = "../maps/map36.txt"
+start = [ 1, 1, 2, 0,]
+goal = [ 11, 4, 6, 0,]
+speed = 0
+algorithm = "tstar-epsilon"
+g_func = "dubins"
+h_func = "dubins"
+ocps_table = "ocps.txt"
+uMax = 1
+vMax = 1
+vMin = 0.5
+obstacle_clearance = 0.05
+epsilon = 4
+wind_x = 0
+wind_y = 0

@@ -1,0 +1,1 @@
+-I../../VarSpeedDubins/external/CoinIpopt/build/include/coin -I../../VarSpeedDubins/src
